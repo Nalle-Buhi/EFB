@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#custom stuff
+bot-env
+config.py
+database.sqlite
+
 # C extensions
 *.so
 
